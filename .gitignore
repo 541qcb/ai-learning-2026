@@ -1,0 +1,25 @@
+# Python 虚拟环境
+.venv/
+venv/
+env/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 数据库文件（本地数据，不进仓库）
+*.db
+*.sqlite3
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+
+# 临时备份
+*.bak
+.git_backup_*

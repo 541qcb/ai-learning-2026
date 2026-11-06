@@ -1,0 +1,15 @@
+# 虚拟环境
+.venv/
+venv/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 数据库文件（本地数据，不进仓库）
+*.db
+*.sqlite3
+
+# 编辑器配置
+.vscode/
+.idea/

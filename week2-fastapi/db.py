@@ -160,3 +160,4 @@ def create_patient(patient_id: str, name: str, dept: str) -> dict:
         conn.commit()
 
     return {"patient_id": patient_id, "name": name, "dept": dept}
+
